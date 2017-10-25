@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "name": "Book Manager",
+    "slug": "book-manager",
+    "privacy": "unlisted",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    }
+  }
+}
